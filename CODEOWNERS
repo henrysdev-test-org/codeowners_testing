@@ -1,3 +1,3 @@
-/services/ @henrysdev-test-org/the-a-team
-/services/echo/ @henrysdev
-/services/foobar/ @henrysdev-test-org/the-a-team @henrysdev 
+/services/* @henrysdev-test-org/the-a-team
+/services/echo/* @henrysdev
+/services/foobar/* @henrysdev-test-org/the-a-team @henrysdev 
